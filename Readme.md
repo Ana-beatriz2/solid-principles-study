@@ -1,0 +1,1 @@
+# Estudos acerca dos princípios SOLID
